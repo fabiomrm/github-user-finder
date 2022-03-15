@@ -1,0 +1,16 @@
+.home-container {
+    padding: 40px;
+}
+
+.home-container h1 {
+    font-size: 3rem;
+}
+
+.home-container h2 {
+    color: #7E7E7E;
+    font-size: 1.5rem;
+}
+
+.start-button {
+    color: #fff;
+}

@@ -1,0 +1,9 @@
+.main-nav {
+  padding-left: 2.5rem;
+  min-height: 3.5rem;
+  background-color: #1890FF;
+}
+
+.main-nav h4 {
+  color: #FFF;
+}
